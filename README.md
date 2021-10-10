@@ -1,3 +1,3 @@
-# Spring Security
+# Method security. OAuth2
 
-### Safe application
+### Safe methods
